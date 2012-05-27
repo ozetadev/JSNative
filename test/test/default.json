@@ -1,0 +1,17 @@
+
+[
+ {
+ "kind":"ScrollView",
+ "name":"scroller",
+ "frame":[
+          0,
+          44,
+          320,
+          416
+          ],
+ "contentSize":[
+                320,
+                600
+                ]
+ }
+ ]
