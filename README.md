@@ -1,4 +1,6 @@
 # JSNative
+
+# THIS WAS MADE IN 2011 PLEASE DO NOT TAKE SERIOUSLY
 The beginning of a way to make Native apps for the iPhone in Javascript (For FREE!)
 
 This is a project I worked on when I was first learning how to write in Objective-C. Please forgive all of the horrible
